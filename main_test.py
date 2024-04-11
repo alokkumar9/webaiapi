@@ -22,7 +22,7 @@ from langchain_core.prompts.chat import (
 
 from langchain_openai import ChatOpenAI
 
-os.environ["OPENAI_API_KEY"]='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'
+
 
 load_dotenv()
 
